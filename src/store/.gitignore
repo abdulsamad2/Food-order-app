@@ -1,0 +1,30 @@
+# Node.js
+node_modules/
+npm-debug.log
+yarn-error.log
+
+# Compiled output
+build/
+dist/
+*.css
+*.js
+
+# Dependency directories
+/.pnp
+.pnp.js
+
+# Optional: If you're using Yarn
+yarn.lock
+
+# Optional: If you're using npm
+package-lock.json
+
+# IDE/Editor specific files
+.idea/
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# OS specific files
+.DS_Store
+Thumbs.db
